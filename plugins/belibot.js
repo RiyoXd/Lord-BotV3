@@ -7,8 +7,8 @@ let handler = async (m, { conn }) => {
 ║┊ ⌲ Sewa = _5k/grup (3 Minggu)_
 ║┊ ⌲ Sewa = _6k/grup (1 bulan)_
 ║┊ ⌲ Sewa = _8k/grup (2 Bulan)_
-║┊ ⌲ Sewa = _10k/grup (3 Bulan)
-║┊ ⌲ Sewa = _12/grup (Manen)
+║┊ ⌲ Sewa = _10k/grup (3 Bulan)_
+║┊ ⌲ Sewa = _12/grup (Manen)_
 ╰═ ┅ ═══════
 
 
