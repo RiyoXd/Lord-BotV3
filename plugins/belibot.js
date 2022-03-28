@@ -2,18 +2,15 @@ let fetch = require('node-fetch')
 let handler = async (m, { conn }) => {
 	conn.send2ButtonLoc(m.chat, await (await fetch(fla + 'sewa bot')).buffer(), `╭═══ *〘 SEWA 〙*
 ║ ┅ ๑————————————๑
-║┊ ⌲ Sewa = _5k/grup (1 minggu)_
-║┊ ⌲ Sewa = _15k/grup (1 bulan)_
-║┊ ⌲ Sewa = _20k/grup (2 bulan)_
-║┊ ⌲ Sewa = _35k/grup (8 bulan)_                                                                      ║┊ ⌲ Sewa = _45k/grup (12 bulan)_
+║┊ ⌲ Sewa = _3k/grup (1 minggu)_
+║┊ ⌲ Sewa = _4k/grup (2 Minggu)_
+║┊ ⌲ Sewa = _5k/grup (3 Minggu)_
+║┊ ⌲ Sewa = _6k/grup (1 bulan)_
+║┊ ⌲ Sewa = _8k/grup (2 Bulan)_
+║┊ ⌲ Sewa = _10k/grup (3 Bulan)
+║┊ ⌲ Sewa = _12/grup (Manen)
 ╰═ ┅ ═══════
-╭═══ *〘 PAKET HEMAT 〙*
-║ ┅ ๑————————————๑
-║┊ ⌲ _20k (Sewa 1 bulan, premium 1 Bulan)_
-║┊ ⌲ _30k (Sewa 2 bulan, premium 1.5 bulan)_
-║┊ ⌲  _45k (8 Bulan sewa, 5 Bulan premium)_
-║┊ ⌲  _65k (all permanent)_
-╰═ ┅ ═══════
+
 
 ༅ _*KEUNTUNGAN SEWABOT*_
 
