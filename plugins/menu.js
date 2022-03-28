@@ -268,8 +268,8 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *Author :* Nurutomo
-┴ ▸ *Owner :* AmmarBN
+│ ▸ *Author :* Riyo Of Course
+┴ ▸ *Owner :* Riyo Of Course
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ Tolong jangan dispam ya biar ga delay
